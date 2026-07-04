@@ -58,8 +58,7 @@ I'm building toward governance, risk & advisory work — this GitHub is where I 
 ### 📌 Featured Projects
 
 | Project | Description | Stack |
-|---|---|---|
-| [Famous People Data Visualization](https://github.com/Charles-Amegashie/famous-people-data-visualization-powerbi) | Interactive Power BI dashboard analyzing global celebrities — professions, countries, ages, awards, and success rankings | Power BI |
+|---|---|
 | [Career Pathfinder AI](https://github.com/Charles-Amegashie/career-pathfinder-ai-480) |  *DelTech Pathways Website* | React 19 + Vite + TanStack Router |
 | [Rental Market Insights](https://github.com/Charles-Amegashie/-Rental-Market-Insights-Power-BI-Project) |  *An analysis of Ghana's rental prices and affordability across the greater accra region and other parts of Ghana* | Power BI |
 
