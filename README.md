@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Charles Amegashie 👋</h1>
-<h3 align="center">Business & data analyst (Power BI, SQL, Python) turning raw data into decisions | Founder, DELTECH Pathways</h3>
+<h3 align="center">Data & Technology Advocate for African Startups & SMEs | Practical Analytics for Better Decisions | Founder, DELTECH Pathways</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/charlesamegashie"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -12,7 +12,7 @@
 
 ### 🧭 Current Focus
 
-I'm a data & business analyst working across risk analytics, market research, and business intelligence — and I founded **DELTECH Pathways**, a program helping university students build data, AI, and career-readiness skills before they enter the job market.
+I'm a Data & Technology Advocate for African Startups & SMEs driving Practical Analytics for Better Decisions working across risk analytics, market research, and business intelligence — and I founded **DELTECH Pathways**, a program helping university students build data, AI, and career-readiness skills before they enter the job market.
 
 My work sits at the intersection of three things:
 - **Analysis** — turning transaction data, survey responses, and business datasets into decisions
