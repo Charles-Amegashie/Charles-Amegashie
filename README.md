@@ -6,7 +6,7 @@
   <a href="mailto:amegashiecha@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/DELTECH_Pathways-0d1117?style=for-the-badge&logo=readthedocs&logoColor=white" /></a>
   <!-- ⚠️ Replace the # above with your real DELTECH Pathways URL once you have a live page (LinkedIn page, Notion site, or domain) -->
-</p>
+</p> -->
 
 ---
 
