@@ -63,7 +63,7 @@ I'm building toward governance, risk & advisory work — this GitHub is where I 
 | [Career Pathfinder AI](https://github.com/Charles-Amegashie/career-pathfinder-ai-480) | ⚠️ *DelTech Pathways Website* | React 19 + Vite + TanStack Router |
 | [Rental Market Insights](https://github.com/Charles-Amegashie/-Rental-Market-Insights-Power-BI-Project) | ⚠️ *An analysis of Ghana's rental prices and affordability across the greater accra region and other parts of Ghana* | Power BI |
 
- <!--> **Not included above:** the `Special-card` link you sent returns a 404 (not found) on GitHub's side — it's either private, renamed, or the URL has a typo. Worth checking before this goes live; a broken link on a portfolio README is worse than one fewer project.
+  <!-- **Not included above:** the `Special-card` link you sent returns a 404 (not found) on GitHub's side — it's either private, renamed, or the URL has a typo. Worth checking before this goes live; a broken link on a portfolio README is worse than one fewer project. -->
 
 ---
 
