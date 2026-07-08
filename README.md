@@ -30,7 +30,7 @@ I'm building toward governance, risk & advisory work — this GitHub is where I 
 | 🏦 **Operational Risk Analyst** | Zenith Bank Ghana — e-payment fraud/risk analytics |
 | 📊 **Market Research Analyst** | Florenbeat Multimedia & Marketing Services |
 | 🎓 **Founder & Data Skills Coordinator** | DELTECH Pathways |
-| 🎓 **BSc Mathematical Science** | University of Ghana, 2026 |
+| 🎓 **BSc Actuarial Science** | University of Ghana |
 
 **Selected impact:**
 - Improved fraud/risk trend prediction accuracy by **12%**; maintained **99.8%** transaction review accuracy
